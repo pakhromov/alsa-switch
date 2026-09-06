@@ -30,3 +30,13 @@ This script only picks which device is the default, nothing else. If you want to
 - alsa-utils
 - rofi
 - A Nerd Font, for the icons in the menu
+
+## Installation
+
+Install from the [AUR](https://aur.archlinux.org/packages/alsa-switch):
+
+```
+yay -S alsa-switch
+```
+
+Otherwise just put the script anywhere on your `$PATH`
